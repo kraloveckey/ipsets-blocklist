@@ -8,12 +8,12 @@
 # Maintainer      : Ultimate-Hosts-Blacklist
 # Maintainer URL  : https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist
 # List source URL : https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/ips/ips0.list
-# Source File Date: Mon May 18 06:06:16 UTC 2026
+# Source File Date: Thu May 21 06:51:46 UTC 2026
 #
 # Category        : abuse
-# Version         : 6
+# Version         : 7
 #
-# This File Date  : Mon May 18 06:06:16 UTC 2026
+# This File Date  : Thu May 21 06:51:46 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 144249 unique IPs
@@ -20093,7 +20093,6 @@
 51.68.124.181
 51.68.126.225
 51.68.138.243
-51.68.143.121
 51.68.143.224
 51.68.192.106
 51.68.204.165
@@ -89708,6 +89707,7 @@
 167.98.62.6
 167.99.2.233
 167.99.2.241
+167.99.5.83
 167.99.10.182
 167.99.12.213
 167.99.15.83
