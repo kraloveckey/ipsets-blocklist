@@ -8,12 +8,12 @@
 # Maintainer      : CriticalPathSecurity
 # Maintainer URL  : https://github.com/CriticalPathSecurity/Public-Intelligence-Feeds
 # List source URL : https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/abuse-ch-ipblocklist.txt
-# Source File Date: Thu Jun 18 06:51:22 UTC 2026
+# Source File Date: Wed Jul 22 08:53:17 UTC 2026
 #
 # Category        : malware
-# Version         : 2
+# Version         : 3
 #
-# This File Date  : Thu Jun 18 06:51:22 UTC 2026
+# This File Date  : Wed Jul 22 08:53:17 UTC 2026
 # Update Frequency: 1 hour 
 # Aggregation     : none
 # Entries         : 7607 unique IPs

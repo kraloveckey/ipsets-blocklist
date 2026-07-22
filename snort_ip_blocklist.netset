@@ -9,12 +9,12 @@
 # Maintainer      : Snort
 # Maintainer URL  : https://snort.org/
 # List source URL : https://snort.org/downloads/ip-block-list/terms
-# Source File Date: Thu May 14 16:54:56 UTC 2026
+# Source File Date: Wed Jul 22 07:50:55 UTC 2026
 #
 # Category        : attacks
-# Version         : 1
+# Version         : 2
 #
-# This File Date  : Thu May 14 16:54:59 UTC 2026
+# This File Date  : Wed Jul 22 08:53:41 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 1386 subnets, 1528 unique IPs

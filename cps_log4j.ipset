@@ -8,12 +8,12 @@
 # Maintainer      : CriticalPathSecurity
 # Maintainer URL  : https://github.com/CriticalPathSecurity/Public-Intelligence-Feeds
 # List source URL : https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/log4j.txt
-# Source File Date: Sun May 10 19:33:31 UTC 2026
+# Source File Date: Wed Jul 22 08:53:17 UTC 2026
 #
 # Category        : attacks
-# Version         : 1
+# Version         : 2
 #
-# This File Date  : Sun May 10 19:33:31 UTC 2026
+# This File Date  : Wed Jul 22 08:53:17 UTC 2026
 # Update Frequency: 1 hour 
 # Aggregation     : none
 # Entries         : 25292 unique IPs
