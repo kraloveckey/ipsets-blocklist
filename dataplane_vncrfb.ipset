@@ -13,12 +13,12 @@
 # Maintainer      : DataPlane.org
 # Maintainer URL  : https://dataplane.org/
 # List source URL : https://dataplane.org/vncrfb.txt
-# Source File Date: Wed Jul 22 06:09:06 UTC 2026
+# Source File Date: Wed Jul 22 07:01:38 UTC 2026
 #
 # Category        : attacks
-# Version         : 70
+# Version         : 71
 #
-# This File Date  : Wed Jul 22 06:46:55 UTC 2026
+# This File Date  : Wed Jul 22 07:46:31 UTC 2026
 # Update Frequency: 1 hour 
 # Aggregation     : none
 # Entries         : 2560 unique IPs
@@ -828,6 +828,7 @@
 85.217.149.33
 85.217.149.34
 85.217.149.35
+85.217.149.36
 85.217.149.46
 85.217.149.51
 85.217.149.55
@@ -1744,6 +1745,7 @@
 185.226.197.50
 185.235.196.101
 185.242.3.143
+185.243.216.169
 185.247.137.4
 185.247.137.7
 185.247.137.9
@@ -1780,7 +1782,6 @@
 185.247.137.82
 185.247.137.87
 185.247.137.88
-185.247.137.89
 185.247.137.90
 185.247.137.92
 185.247.137.94
@@ -2001,7 +2002,6 @@
 195.96.139.5
 195.96.139.6
 195.96.139.10
-195.96.139.12
 195.96.139.13
 195.96.139.16
 195.96.139.17
