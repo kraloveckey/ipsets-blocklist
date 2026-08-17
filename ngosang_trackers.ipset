@@ -8,12 +8,12 @@
 # Maintainer      : Ngosang
 # Maintainer URL  : https://github.com/ngosang/trackerslist
 # List source URL : https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
-# Source File Date: Sat Aug 15 06:53:11 UTC 2026
+# Source File Date: Mon Aug 17 06:52:00 UTC 2026
 #
 # Category        : abuse
-# Version         : 52
+# Version         : 53
 #
-# This File Date  : Sat Aug 15 06:53:11 UTC 2026
+# This File Date  : Mon Aug 17 06:52:00 UTC 2026
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 41 unique IPs
@@ -29,9 +29,10 @@
 37.120.182.83
 43.250.54.126
 51.222.82.36
+52.58.128.163
 60.172.236.18
-65.109.28.17
 65.109.28.33
+67.222.238.222
 74.119.149.136
 83.102.180.21
 91.177.126.188
@@ -49,16 +50,15 @@
 159.146.99.45
 164.152.110.70
 177.215.66.183
-185.87.45.163
+180.131.145.175
 185.121.168.96
 185.126.65.92
-185.189.13.39
 185.216.179.62
 192.99.100.68
 193.187.90.12
 207.211.184.229
-209.141.59.16
-211.75.205.187
+208.83.20.20
+211.75.205.188
 211.75.210.221
 212.42.38.197
 216.144.239.90
