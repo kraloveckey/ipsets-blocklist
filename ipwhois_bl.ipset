@@ -14,12 +14,12 @@
 # Maintainer      : IPWhois.net
 # Maintainer URL  : https://ipwhois.net/
 # List source URL : https://bl.ipwhois.net/feed.txt
-# Source File Date: Sun Aug 23 06:30:03 UTC 2026
+# Source File Date: Mon Aug 24 06:30:03 UTC 2026
 #
 # Category        : attacks
-# Version         : 11
+# Version         : 12
 #
-# This File Date  : Sun Aug 23 06:46:40 UTC 2026
+# This File Date  : Mon Aug 24 06:46:39 UTC 2026
 # Update Frequency: 30 mins 
 # Aggregation     : none
 # Entries         : 882 unique IPs
@@ -289,7 +289,6 @@
 68.183.89.210
 68.183.189.209
 68.183.203.22
-69.6.251.124
 69.16.208.95
 69.160.18.46
 71.6.165.200
@@ -469,6 +468,7 @@
 115.190.26.3
 115.190.92.70
 115.190.219.169
+115.191.21.73
 116.98.58.244
 116.99.168.40
 116.99.170.251
@@ -832,6 +832,7 @@
 189.113.38.56
 189.151.63.61
 190.52.73.239
+190.99.152.82
 190.108.60.10
 190.152.182.232
 190.205.188.43
@@ -886,7 +887,6 @@
 210.79.191.178
 210.178.154.20
 210.209.70.129
-211.90.243.137
 211.95.159.159
 211.252.85.97
 212.11.64.154
