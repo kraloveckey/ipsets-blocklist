@@ -8,13 +8,13 @@
 #
 # Maintainer      : DB-IP.com
 # Maintainer URL  : https://db-ip.com/
-# List source URL : https://download.db-ip.com/free/dbip-country-lite-2026-08.csv.gz
-# Source File Date: Sat Aug  1 06:33:45 UTC 2026
+# List source URL : https://download.db-ip.com/free/dbip-country-lite-2026-10.csv.gz
+# Source File Date: Thu Oct  1 06:29:23 UTC 2026
 #
 # Category        : geolocation
-# Version         : 5
+# Version         : 6
 #
-# This File Date  : Sat Aug  1 06:46:10 UTC 2026
+# This File Date  : Thu Oct  1 06:45:37 UTC 2026
 # Update Frequency: 30 days 
 # Aggregation     : none
 # Entries         : 56 subnets, 59175 unique IPs
@@ -23,6 +23,7 @@
 # Processed with FireWALL-E's iprange
 #
 5.224.210.0/24
+9.170.96.0/23
 41.78.72.0/22
 41.79.196.0/22
 41.138.248.96/27
@@ -49,7 +50,6 @@
 103.243.66.122/31
 103.243.66.124/30
 103.243.66.128/25
-104.143.203.0/24
 143.105.216.0/23
 154.72.24.0/22
 154.72.48.0/22
@@ -74,11 +74,10 @@
 196.198.178.0/24
 196.199.178.0/24
 196.201.156.0/24
-196.201.205.0/24
 196.201.206.0/23
 197.157.244.0/22
 197.220.64.0/19
 197.231.200.0/22
+212.32.91.0/24
 213.169.123.0/24
 217.15.124.0/24
-217.74.232.0/24
