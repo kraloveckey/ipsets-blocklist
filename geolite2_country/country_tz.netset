@@ -9,12 +9,12 @@
 # Maintainer      : MaxMind.com
 # Maintainer URL  : http://www.maxmind.com/
 # List source URL : https://dev.maxmind.com/geoip/geoip2/geolite2/
-# Source File Date: Fri Nov  6 17:16:15 UTC 2026
+# Source File Date: Fri Nov 13 20:46:32 UTC 2026
 #
 # Category        : geolocation
-# Version         : 22
+# Version         : 23
 #
-# This File Date  : Sat Nov  7 07:45:24 UTC 2026
+# This File Date  : Sat Nov 14 07:45:23 UTC 2026
 # Update Frequency: 7 days 
 # Aggregation     : none
 # Entries         : 303 subnets, 1137884 unique IPs
@@ -32,6 +32,7 @@
 41.75.208.0/20
 41.78.64.0/22
 41.78.168.0/22
+41.79.63.0/24
 41.79.68.0/22
 41.79.184.0/22
 41.79.248.0/22
@@ -346,7 +347,6 @@
 196.249.64.0/18
 197.149.176.0/22
 197.152.0.0/16
-197.158.255.0/24
 197.186.0.0/15
 197.221.192.0/19
 197.234.224.0/22
